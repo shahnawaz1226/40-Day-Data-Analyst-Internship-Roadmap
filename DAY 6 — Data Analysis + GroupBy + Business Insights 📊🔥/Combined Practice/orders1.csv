@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product,category,price,quantity,city,payment_mode
+1001,C101,2025-01-02,T-Shirt,Clothing,599,2,Delhi,UPI
+1002,C102,2025-01-03,Shoes,Footwear,2499,1,Mumbai,Card
+1003,C103,2025-01-03,Jeans,Clothing,1799,1,Bangalore,UPI
+1004,C101,2025-01-04,Watch,Accessories,3299,1,Delhi,COD
+1005,C104,2025-01-05,Headphones,Electronics,1999,2,Pune,UPI
+1006,C105,2025-01-06,T-Shirt,Clothing,599,3,Delhi,Card
+1007,C106,2025-01-06,Laptop,Electronics,65000,1,Hyderabad,Card
+1008,C102,2025-01-07,Shoes,Footwear,2499,2,Mumbai,UPI
+1009,C107,2025-01-08,Backpack,Accessories,1299,1,Chennai,COD
+1010,C108,2025-01-09,Mobile,Electronics,22000,1,Delhi,UPI

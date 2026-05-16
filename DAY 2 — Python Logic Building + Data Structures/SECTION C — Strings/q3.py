@@ -1,0 +1,17 @@
+# String Methods and Functions
+# Take the string "  i love python programming  " and:
+
+# Remove extra spaces from both ends
+# Convert it to title case
+# Count how many times "o" appears
+# 2. Check if the string "123abc" is alphanumeric.
+
+
+string = "  i love python programming  "
+
+print(string.strip())
+print(string.title())
+print(string.count("o"))
+
+str2 = "123abc"
+print(str2.isalnum())

@@ -1,0 +1,5 @@
+customer_id,gender,age,signup_date,city
+C001,Male,24,2024-06-12,Delhi
+C002,Female,29,2023-11-20,Mumbai
+C003,Male,35,2022-01-05,Bangalore
+C004,Female,27,2024-03-18,Delhi

@@ -1,0 +1,11 @@
+emp_id,name,department,salary,experience_years,city
+E101,Rahul,IT,900000,5,Delhi
+E102,Ananya,HR,600000,4,Mumbai
+E103,Amit,Finance,850000,6,Bangalore
+E104,Priya,IT,1200000,8,Delhi
+E105,Rohit,Sales,700000,3,Pune
+E106,Neha,HR,,5,Mumbai
+E107,Karan,Finance,950000,7,Bangalore
+E108,Simran,Sales,650000,2,Chandigarh
+E109,Arjun,IT,1100000,9,Hyderabad
+E110,Sneha,Finance,,4,Delhi

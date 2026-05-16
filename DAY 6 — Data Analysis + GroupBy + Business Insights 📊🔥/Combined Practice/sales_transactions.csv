@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product,category,price,quantity,city,payment_mode
+101,2025-01-01,C001,Phone,Electronics,15000,1,Delhi,UPI
+102,2025-01-01,C002,Laptop,Electronics,55000,1,Mumbai,Credit Card
+103,2025-01-02,C001,Headphones,Accessories,2000,2,Delhi,UPI
+104,2025-01-03,C003,Chair,Furniture,3000,1,Bangalore,Debit Card
+105,2025-01-03,C004,Desk,Furniture,7000,1,Delhi,UPI

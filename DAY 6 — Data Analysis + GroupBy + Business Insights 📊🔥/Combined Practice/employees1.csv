@@ -1,0 +1,9 @@
+employee_id,name,age,department,salary,experience_years,joining_date
+101,Amit,28,IT,55000,4,2021-06-15
+102,Riya,34,HR,48000,8,2018-03-10
+103,Kunal,26,Marketing,42000,2,2022-01-05
+104,Neha,41,Finance,92000,15,2010-11-20
+105,Rahul,38,IT,78000,12,2013-07-01
+106,Pooja,30,Sales,,6,2019-09-18
+107,Arjun,25,IT,36000,1,2023-02-12
+108,Simran,45,Finance,110000,20,2005-05-30

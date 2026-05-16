@@ -1,0 +1,9 @@
+post_id,platform,user,followers,likes,comments,shares,topic,posted_at,verified
+1,X,tech_guru,1200000,45000,2100,800,"AI",2025-12-01,Yes
+2,Instagram,foodie_raj,850000,NaN,1200,300,"Food",01/12/2025,No
+3,TikTok,dance_star,2200000,180000,5400,12000,"Dance",2026-01-10,Yes
+4,X,news_daily,500000,23000,900,1500,"Politics",2026/01/15,YES
+5,YouTube,code_master,300000,15000,NaN,700,"Programming",2025-11-20,No
+6,Instagram,,12000,800,50,20,"Travel",2026-02-02,No
+7,TikTok,funny_memes,4500000,350000,11000,25000,"Memes",2026-01-25,Yes
+8,X,crypto_king,950000,40000,2000,5000,"Crypto",2025-12-28,No
